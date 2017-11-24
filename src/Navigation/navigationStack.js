@@ -4,7 +4,6 @@ import Counter from "../Components/Counter";
 import Logout from "../Components/Logout";
 import Login from "../Components/LoginScreen";
 import Feed from "../Components/Feed";
-import Notification from "../Components/Notification";
 import Signup from "../Components/SignupScreen";
 
 export const Tabs = TabNavigator({
